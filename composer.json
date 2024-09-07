@@ -1,0 +1,18 @@
+{
+    "name": "laravel/address",
+    "require": {
+        "ext-pdo_mysql": "*",
+        "phpunit/phpunit": "^10.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "Laravel\\Address\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Santosh kumar",
+            "email": "lucky1999mfp@gmail.com"
+        }
+    ]
+}
